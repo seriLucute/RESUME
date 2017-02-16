@@ -1,10 +1,7 @@
 # Seri Lee
 가천대학교 산업경영공학과
 
-Teamlab 학부생 연구원 
-
-
-[Github URL](https://github.com/TeamLab)
+학부생 연구원 at [@ Teamlab](https://github.com/TeamLab)
 
 * * * 
 
@@ -13,20 +10,14 @@ Teamlab 학부생 연구원
 
 ### Project
 
-- 2015 생활코딩,학과를 위한 웹서비스 만들기(2015 01~02)
+- [2015 생활코딩,학과를 위한 웹서비스 만들기(2015 01~02)](https://github.com/seri4511/Typica)
 	:Html+CSS+Javascript, Flask(python)를 사용하여 산업경영공학과 학생들이 사물함 신청을 할 수 있는 웹페이지 개발
 
 - 2015 IoT for Planet -IoT 기술을 활용한 식물 재배 웹서비스 구축(2015  summer)
-	: Html+CSS+Javascript, Django(python), D3.js를 사용하여 식물 재배 환경을 센싱한 데이터를 실시간으로 시각화하는 웹페이지를 개발함 
-
-	[Slideshare](http://www.slideshare.net/secret/pulCZZH1wFk2uJ)
-
-	[웹페이지](https://github.com/hyoenju/ginseng) by hyoenju
-
+	: Html+CSS+Javascript, Django(python), D3.js를 사용하여 식물 재배 환경을 센싱한 데이터를 실시간으로 시각화하는 웹페이지를 개발함 ([발표자료](http://www.slideshare.net/secret/pulCZZH1wFk2uJ))
+	
 - 2016 가천 데이터 과학 여름 학교 Data Analysis 프로젝트 (2016 summer)
-	: pandas와 Scikit-learn을 사용하여 Logistic Regression, Decision Tree 기법과 Feature	 Engineering으로 데이터 분석 모델 성능 올리기(Nursery Data Set)
-
-	[웹페이지]()
+	: pandas와 Scikit-learn을 사용하여 Logistic Regression, Decision Tree 기법과 Feature	 Engineering으로 데이터 분석 모델 성능 올리기(Nursery Data Set)()
 
 
 ### Skills
