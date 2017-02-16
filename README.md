@@ -37,6 +37,7 @@
 ### Experience
 - 2015-02 기술경영 – “차세대 전지”
 	: 차세대 전지을 주제로 소형/중대형 전지를 조사하여  차세대 2차전지의 양극재 NCA을 연구개발하는 전략 수립하는 프로젝트 진행
+	
 	[Slideshare] 발표자료 (http://www.slideshare.net/SeriLee7/2015-02-72175229)
 
 - 2016-01 가천대학교 Gachon CS50 ‘프로그래밍 입문 with Python’ TA
@@ -44,7 +45,8 @@
 
 - 2016-01 경영정보시스템 – 가천대학교 강의 평가 시스템 개선
 	: 강의평가 시스템에 대한 사용자의 요구사항을 조사하여 추가·개선할 기능 파악하고, 그를 바탕으로 시스템에 대한 새로운 DFD, ERD, UI 구성
- 	[slideshare] 발표자료(http://www.slideshare.net/SeriLee7/2016-01-72175935)
+
+	[slideshare] 발표자료(http://www.slideshare.net/SeriLee7/2016-01-72175935)
  
 - 2016-02 ‘K-MOOC 데이터 과학을 위한 Python 입문’ TA
 	: 온라인 공개강좌 서비스인 K-MOOC ‘데이터 과학을 위한 Python 입문’ 강의에서 수강자에게 오는 강의 내용, 과제 관련 질문에 대한 답변을 해주는 TA 활동을 함
