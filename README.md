@@ -19,9 +19,9 @@ Teamlab 학부생 연구원
 - 2015 IoT for Planet -IoT 기술을 활용한 식물 재배 웹서비스 구축(2015  summer)
 	: Html+CSS+Javascript, Django(python), D3.js를 사용하여 식물 재배 환경을 센싱한 데이터를 실시간으로 시각화하는 웹페이지를 개발함 
 
-	[Slideshare]()
+	[Slideshare](http://www.slideshare.net/secret/pulCZZH1wFk2uJ)
 
-	[웹페이지](https://github.com/hyoenju/ginseng)
+	[웹페이지](https://github.com/hyoenju/ginseng) by hyoenju
 
 - 2016 가천 데이터 과학 여름 학교 Data Analysis 프로젝트 (2016 summer)
 	: pandas와 Scikit-learn을 사용하여 Logistic Regression, Decision Tree 기법과 Feature	 Engineering으로 데이터 분석 모델 성능 올리기(Nursery Data Set)
