@@ -11,11 +11,11 @@
   - [IoT for Planet -IoT 기술을 활용한 식물 재배 웹서비스 구축](http://www.slideshare.net/secret/pulCZZH1wFk2uJ)
 	 - 식물 재배 환경을 센싱한 데이터를 통계분석을 통하여 실시간으로 시각화하는 웹페이지 개발 [March - Aug 2015]
   - [기술경영 "차세대 전지”](http://www.slideshare.net/SeriLee7/2015-02-72175229)
-	- 차세대 전지을 주제로 소형/중대형 전지를 조사하여  차세대 2차전지의 양극재 NCA을 연구개발하는 전략 수립 [Sep - Dec 2015]
+	- 차세대 소형/중대형 전지를 조사하여  차세대 2차전지의 양극재 NCA을 연구개발하는 전략 수립 [Sep - Dec 2015]
   - [경영정보시스템 – 가천대학교 강의 평가 시스템 개선](http://www.slideshare.net/SeriLee7/2016-01-72175935)
-	-  강의평가 시스템에 대한 사용자의 요구사항을 조사하여 해당 시스템에 대한 새로운 DFD, ERD, UI 구성 [Mar - Jun 2016] 	
+	-  강의평가 시스템에 대한 사용자의 요구사항을 조사하여 해당 시스템에 대한  DFD, ERD, UI 구성 [Mar - Jun 2016] 	
   - [가천 데이터 과학 여름 학교 Data Analysis 프로젝트](https://github.com/seriLucute/data_summer_school_labs/tree/master/individual/seri)
-	- pandas와 Scikit-learn을 사용하여 Logistic Regression, Decision Tree 기법과 Featur Engineering으로 데이터 분석 모델 성능 올리기 - [Jul - Sep 2016] 	
+	- Pandas,Scikit-learn을 사용하여 Logistic Regression, Decision Tree 기법과 Featur Engineering으로 데이터 분석 모델 성능 올리기 [Jul - Sep 2016] 	
   - [가천대학교 해커톤 - 가천헌책방](http://www.slideshare.net/secret/4XMFsQ1OECWAat)
 	- 가천대학교 해커톤 중고교재 판매 웹사이트 구현-[개발코드](https://github.com/jinongkim/gachon-hack-book) [Dec 2016]
   - G 대학교 학사경고자 예측 모델 구현
