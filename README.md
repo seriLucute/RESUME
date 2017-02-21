@@ -9,7 +9,7 @@
 [![e-mail](https://img.shields.io/badge/email-asdd565seri@gmail.com-blue.svg)](mailto:asdd565seri@gmail.com)
 
 ### Project
-
+* * *
 - [Jan - Feb 2015] 
   - [생활코딩,학과를 위한 웹서비스 만들기](https://github.com/seri4511/Typica)
     - Html+CSS+Javascript, Flask(python)를 사용하여 산업경영공학과 학생들이 사물함 신청을 할 수 있는 웹페이지 개발
@@ -38,7 +38,7 @@
 
 
 ### Skills
-
+* * *
 - Language
    - Python, Web(HTML +  CSS + JavaScript + Ajax + Bootstrap), Git, Data Analysis (Pandas, Numpy, Scikit-Learn, TensorFlow)
 
@@ -53,7 +53,7 @@
 
 
 ### Awards
-
+* * *
 - [2015] 
   - 대한산업공학회 한국 대학생 산업공학 프로젝트 경진대회 동상 수상 (Project – IoT for Plant 참조)
 
@@ -61,7 +61,7 @@
   - 가천대학교 해커톤 우수상 수상 가천헌책방
 
 ### Experience
-
+* * *
 - [Mar -Jun 2015]
   - ‘프로그래밍 입문 with Python’ TA
 	
