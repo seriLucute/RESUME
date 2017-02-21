@@ -1,10 +1,6 @@
 # Seri Lee
 가천대학교 산업경영공학과
-
 학부생 연구원 at [@ Teamlab](https://github.com/TeamLab)
-
-* * * 
-
 ### Contact 
 [![e-mail](https://img.shields.io/badge/email-asdd565seri@gmail.com-blue.svg)](mailto:asdd565seri@gmail.com)
 
