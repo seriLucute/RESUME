@@ -27,10 +27,11 @@
 - [[Jul - Sep 2016] 가천 데이터 과학 여름 학교 Data Analysis 프로젝트](https://github.com/seriLucute/data_summer_school_labs/tree/master/individual/seri)
 	<p>: pandas와 Scikit-learn을 사용하여 Logistic Regression, Decision Tree 기법과 Featur Engineering으로 데이터 분석 모델 성능 올리기</p>
     
-- [[Oct 2016] 가천대학교 아이디어톤 - 가천헌책방]()
-	<p></p>
-- [[Dec 2016] 가천대학교 해커톤 - 가천헌책방]()
-	<p></p>
+- [[Oct 2016] 가천대학교 아이디어톤 - 가천헌책방](http://www.slideshare.net/secret/AuFu1ggriNiAU2)
+	<p>가천대학교 해커톤을 진행하기 위한 UI 및 아이디어 구상
+:가천대학교 중고교재 판매 사이트 </p>
+- [[Dec 2016] 가천대학교 해커톤 - 가천헌책방](http://www.slideshare.net/secret/4XMFsQ1OECWAat)
+	<p>가천대학교 해커톤 중고교재 판매 웹사이트 구현-[개발코드](https://github.com/jinongkim/gachon-hack-book)</p>
 - [[Jan - Feb 2017] G 대학교 학사경고자 예측 모델 구현](https://github.com/seriLucute/gachon-warnning)
 	<p>: G 대학교 학생들의 특성을 나타내는 데이터를 수집 후 Pandas와 Scikit-learn을 사용하여 각 데이터를 정제 및 분석모델(LogisticRegression, SVM, RandomForest)에 적용  </p>
 
