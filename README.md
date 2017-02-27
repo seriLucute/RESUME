@@ -27,7 +27,7 @@
 - Language
    - Python, Web(HTML +  CSS + JavaScript + Ajax + Bootstrap), Git, Data Analysis (Pandas, Numpy, Scikit-Learn, TensorFlow)
 -  Database 
-   - MySQL, SQLite
+   - MySQL
 - Others 
   -  Jupyter, Jetbrains IDE(PyCharm, WebStorm), Github,MS Office
 
