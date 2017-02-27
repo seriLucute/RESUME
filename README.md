@@ -29,7 +29,7 @@
 -  Database 
    - MySQL
 - Others 
-  -  Jupyter, Jetbrains IDE(PyCharm, WebStorm), Github,MS Office
+  -  Jupyter, Jetbrains IDE(PyCharm, WebStorm), Github
 
 
 ### Awards
